@@ -1,0 +1,43 @@
+Pranav Kumar .S
+Generative AI Engineer
+
+Summary:
+I am a B.Tech Information Technology graduate and aspiring Generative AI Engineer passionate about building practical AI applications.
+
+Core focus:
+- Generative AI
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Python
+- Data Analytics
+- AI-powered automation
+
+Skills:
+Python, SQL, LLMs, RAG, Prompt Engineering, AI Agents, LangChain, Pandas, Streamlit, Git & GitHub, Data Visualization
+
+Services:
+- AI chatbots
+- RAG and document Q&A systems
+- Prompt engineering
+- AI automation
+- Python-powered AI apps
+- Freelance AI product development
+
+Project focus:
+- AI Career Assistant
+- Data Analytics Chatbot
+- Document Q&A / RAG System
+
+Professional interest:
+I build practical AI products using LLMs, RAG, prompt engineering, Python, and AI agents for real-world business workflows.
+
+Contact:
+Email: pranavkumar94433@gmail.com
+WhatsApp: +91 93607 58807
+GitHub: https://github.com/pranav94433
+Resume: /Pranav-Kumar-Resume.pdf
+
+Open to work:
+I’m available for freelance AI work and open to meaningful AI engineering opportunities, collaborations, and product-focused projects.
